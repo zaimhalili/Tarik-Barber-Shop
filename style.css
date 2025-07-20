@@ -31,7 +31,7 @@ body::before {
 }
 
 .nav-bar {
-    height: 150px;
+    height: 120px;
     width: 100vw;
     position: sticky;
     background-color: rgba(0, 0, 0, 0.5);
